@@ -1,0 +1,4 @@
+Submission time of child process from times: 0 seconds
+Submission time of child process from gettimeofday(): 381199 seconds
+Termination time of child process from times: 0 seconds
+Termination time of child process from gettimeofday(): 1635222758 seconds
